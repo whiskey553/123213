@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+kabochan.blog.jp	TRUE	/	FALSE	1999999999	ldblog_u	64f9264caf56ab08b9d8b9ee7ea4d4dae65db1781728912782.13123
+kabochan.blog.jp	TRUE	/	FALSE	1999999999	ldsuid	k1yS8mcNHY4k1SiLxRY0Ag==
+livedoor.blogimg.jp	TRUE	/	FALSE	1999999999	ldsuid	k1yQuWcNHZ0L/0Hp59u+Ag==
+t.blog.livedoor.jp	TRUE	/	FALSE	1999999999	ldsuid	k1zwOWcNH4VZwkpQaUgoAg==
+member.livedoor.com	TRUE	/	FALSE	1999999999	ldsuid	68f4b85affd2496bc66c605bacc9cdaf
+

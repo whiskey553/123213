@@ -224,7 +224,7 @@ dl.common-theme dt {
 	display: none;
 }
 body.default_2008 dl.common-theme {
-	background: url(../img/usr/default_2008/common/common_theme.gif) no-repeat;
+	background: url(../img/usr/default_2008/common/common_theme.html) no-repeat;
 	margin-bottom: 10px;
 	padding-left: 20px;
 	line-height: 16px;
@@ -246,7 +246,7 @@ dl.article-tags dd {
 }
 /* default_2008 style */
 body.default_2008 dl.article-tags {
-	background: url(../img/usr/default_2008/common/tag.gif) no-repeat;
+	background: url(../img/usr/default_2008/common/tag.html) no-repeat;
 	padding-left: 20px;
 	height: 1%;
 	min-height: 16px;
@@ -911,7 +911,7 @@ div.twitterTimeline span.twitterAuthor {
 /* = cms_link - Plugin
 =============================================== */
 .side div.cms-link {
-	background: url(../img/plugin/cms_link/icon_write.gif) no-repeat left top;
+	background: url(../img/plugin/cms_link/icon_write.html) no-repeat left top;
 	min-height: 17px;
 	line-height: 17px;
 	padding: 1px 0 1px 20px;
@@ -1016,7 +1016,7 @@ p.touchItemDate {
 }
 div.loctouchItem {
 	margin-top: 10px;
-	background: url(../img/loctouch/loc_line.gif) repeat-x;
+	background: url(../img/loctouch/loc_line.html) repeat-x;
 	background-position: bottom;
 }
 div.loctouchCategoryIcon {

@@ -1,37 +1,141 @@
-HTTrack3.49-2+htsswf+htsjava launched on Tue, 08 Oct 2024 20:14:57 at https://kabochan.blog.jp/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
-(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://kabochan.blog.jp/ -O1 "C:\Users\drak\Desktop\Rabota\My Own\Kabosama\Kabosumama" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 14 Oct 2024 16:32:59 at https://kabochan.blog.jp/archives/52722073.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://kabochan.blog.jp/archives/52722073.html -O1 "D:\Launchdeploy\123213" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
 
 Information, Warnings and Errors reported for this mirror:
 note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
 	such as username/password authentication for websites mirrored in this project
 	do not share these files/folders if you want these information to remain private
 
-20:15:19	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://kabochan.blog.jp/settings/header.js?v=20230927
-20:32:31	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://kabochan.blog.jp/)
-22:50:05	Warning: 	Retry after error -2 (Receive Time Out) at link https://kabochan.blog.jp/archives/52544796.html (from https://kabochan.blog.jp/)
-22:50:08	Warning: 	Retry after error -4 (No data (connection closed)) at link https://kabochan.blog.jp/archives/52528503.html (from https://kabochan.blog.jp/)
-22:54:14	Warning: 	Retry after error -2 (Receive Time Out) at link https://kabochan.blog.jp/?p=5 (from https://kabochan.blog.jp/)
-22:54:55	Warning: 	Link https://kabochan.blog.jp/_/oa_notifier not scanned (follow robots meta tag)
-22:55:01	Warning: 	Retry after error -2 (Receive Time Out) at link https://kabochan.blog.jp/images/profile_tutuji.png (from https://kabochan.blog.jp/)
-22:55:02	Warning: 	Retry after error -2 (Receive Time Out) at link https://kabochan.blog.jp/images/profile_onigiri.png (from https://kabochan.blog.jp/)
-22:55:03	Warning: 	Retry after error -2 (Receive Time Out) at link https://kabochan.blog.jp/images/img_book02.png (from https://kabochan.blog.jp/)
-22:55:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://kabochan.blog.jp/images/profile_tutuji.png
-22:55:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://kabochan.blog.jp/images/profile_onigiri.png
-01:09:35	Warning: 	Retry after error -4 (No data (connection closed)) at link https://kabochan.blog.jp/archives/2011-04.html (from https://kabochan.blog.jp/)
-01:19:40	Error: 	"Forbidden" (403) at link https://ipcheck.blogsys.jp/check.js?t= (from https://kabochan.blog.jp/)
-01:23:49	Warning: 	Link https://kabochan.blog.jp/_/ldapp_notifier?ref=editor_ldapp&id=7331795 not scanned (follow robots meta tag)
-01:37:44	Warning: 	Retry after error -2 (Receive Time Out) at link https://kabochan.blog.jp/archives/51631749.html (from https://kabochan.blog.jp/?p=4)
-01:48:43	Error: 	"Cancelled by User" (-1) at link https://kabochan.blog.jp/archives/cat_315742.xml (from https://kabochan.blog.jp/archives/cat_315742.html)
-01:56:05	Warning: 	Retry after error -2 (Receive Time Out) at link https://kabochan.blog.jp/archives/9770534.html (from https://kabochan.blog.jp/archives/cat_315764.html)
-02:05:01	Warning: 	Retry after error -2 (Receive Time Out) at link https://kabochan.blog.jp/archives/39294785.html (from https://kabochan.blog.jp/archives/cat_386993.html)
-02:19:06	Warning: 	Retry after error -2 (Receive Time Out) at link https://kabochan.blog.jp/archives/cat_504883.xml (from https://kabochan.blog.jp/archives/cat_504883.html)
-02:28:16	Warning: 	Retry after error -2 (Receive Time Out) at link https://kabochan.blog.jp/archives/cat_525816.html?p=12 (from https://kabochan.blog.jp/archives/cat_525816.html)
-02:35:01	Warning: 	Retry after error -2 (Receive Time Out) at link https://kabochan.blog.jp/archives/20684113.html (from https://kabochan.blog.jp/archives/cat_457941.html)
-02:36:11	Warning: 	Unexpected socket error during pre-loop
-02:41:07	Warning: 	Unexpected socket error during pre-loop
-02:41:38	Warning: 	Unexpected socket error during pre-loop
-02:41:39	Warning: 	Unexpected socket error during pre-loop
-02:52:01	Warning: 	Retry after error -2 (Receive Time Out) at link https://kabochan.blog.jp/archives/38608685.html (from https://kabochan.blog.jp/archives/cat_517890.html)
-03:11:46	Warning: 	Retry after error -2 (Receive Time Out) at link https://kabochan.blog.jp/archives/38392467.html (from https://kabochan.blog.jp/archives/cat_525818.html)
-03:53:16	Warning: 	Retry after error -4 (No data (connection closed)) at link https://kabochan.blog.jp/archives/cat_315735.html?p=2 (from https://kabochan.blog.jp/archives/cat_315735.html)
-03:55:06	Error: 	"Bad Request" (400) at link https://kabochan.blog.jp/archives/%url% (from https://kabochan.blog.jp/archives/cat_315735.html)
+16:33:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://parts.blog.livedoor.jp/css/comment2/heart.css?v=20180704
+16:33:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://parts.blog.livedoor.jp/js/jquery-3.7.1.min.js
+16:33:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://parts.blog.livedoor.jp/js/emoji.js
+16:33:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://parts.blog.livedoor.jp/js/misc.js?v=20190710
+16:33:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://parts.blog.livedoor.jp/js/usr/import.js
+16:33:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://parts.blog.livedoor.jp/js/c2.js?v=20191010
+16:33:09	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://kabochan.blog.jp/settings/header.js?v=20230927
+16:33:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/c/6/c623e86c.png
+16:33:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/c/6/c623e86c-s.png
+16:33:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://parts.blog.livedoor.jp/js/related_articles.js?t=20180221
+16:33:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://parts.blog.livedoor.jp/js/comment.0.2.js?v=20130430
+16:33:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://parts.blog.livedoor.jp/js/misc.js?v=20190826
+16:33:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://parts.blog.livedoor.jp/js/anime.min.js?_v=
+16:33:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://parts.blog.livedoor.jp/js/comment2/heart_animation.js?_v=
+16:41:25	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://kabochan.blog.jp/archives/52722073.html)
+16:41:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://parts.blog.livedoor.jp/css/template_6thgen.css
+16:41:32	Warning: 	Unexpected 412/416 error (Requested Range Not Satisfiable) for https://parts.blog.livedoor.jp/img/emoji/3/palette.png, 'D:/Launchdeploy/123213/parts.blog.livedoor.jp/img/emoji/3/palette.html' could not be found on disk
+16:41:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/3/0/30dd315c.jpg
+16:41:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/6/f/6fbe23ab.jpg
+16:41:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/5/9/5911d5b9.jpg
+16:41:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/9/1/91a89389.jpg
+16:41:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/7/6/76da0736.jpg
+16:41:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/1/6/16220bdc.jpg
+16:41:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/f/9/f972d093.jpg
+16:41:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/f/9/f972d093-s.jpg
+16:41:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/3/6/364a79b9.jpg
+16:41:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/3/6/364a79b9-s.jpg
+16:41:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/a/4/a4bb4051.jpg
+16:41:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/a/4/a4bb4051-s.jpg
+16:41:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/3/0/305cdbc2.jpg
+16:41:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/6/b/6b43e67b.jpg
+16:41:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/6/c/6c4f2725.jpg
+16:41:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/4/a/4a1b7544.jpg
+16:41:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/2/c/2cc97d92.jpg
+16:41:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/7/e/7e97e050.jpg
+16:41:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/2/9/29600092.jpg
+16:41:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/2/f/2fb62ef8.jpg
+16:41:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/2/4/2414ad39.jpg
+16:42:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/6/b/6b0239a2.jpg
+16:42:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/9/3/9370d503.jpg
+16:42:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/8/8/880e6052.jpg
+16:42:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/b/2/b25f7c1a.jpg
+16:42:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/5/e/5e13d354.jpg
+16:42:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/8/b/8b16794b.jpg
+16:42:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/d/6/d6b612b2.jpg
+16:42:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/3/5/35507144.jpg
+16:42:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/f/9/f9672437.jpg
+16:42:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/8/a/8aa5c9fe.jpg
+16:42:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/a/c/ac15389d.jpg
+16:42:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/6/7/67f31417.jpg
+16:42:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/6/7/67f31417-s.jpg
+16:42:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/3/6/366e14bd.jpg
+16:42:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/f/4/f4de1393.jpg
+16:42:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/b/e/be06b6ec.jpg
+16:42:23	Warning: 	Unexpected 412/416 error (Requested Range Not Satisfiable) for https://parts.blog.livedoor.jp/img/usr/cmn/btn_add_x.png, 'D:/Launchdeploy/123213/parts.blog.livedoor.jp/img/usr/cmn/btn_add_x.html' could not be found on disk
+16:42:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/c/0/c0093b87-s.jpg
+16:42:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/d/f/df3ad89c-s.jpg
+16:42:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/7/1/71f1b4c4-s.jpg
+16:42:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/6/f/6f675e01-s.jpg
+16:42:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/9/7/97e79788-s.jpg
+16:42:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/2/a/2ad9ae93-s.jpg
+16:42:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/a/9/a969c8f9-s.jpg
+16:42:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/9/4/945d4566-s.jpg
+16:42:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/e/c/ec08067e-s.jpg
+16:42:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/2/1/21e715b0-s.jpg
+16:42:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/c/0/c0f94a6b-s.jpg
+16:42:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/f/f/ffa0d059-s.jpg
+16:43:12	Warning: 	Unexpected 412/416 error (Requested Range Not Satisfiable) for https://parts.blog.livedoor.jp/img/usr/default_2012/common/icon_facemark.png, 'D:/Launchdeploy/123213/parts.blog.livedoor.jp/img/usr/default_2012/common/icon_facemark.html' could not be found on disk
+16:43:18	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/4/4/44c6f04e-s.jpg
+16:43:19	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/1/6/161be6d9-s.jpg
+16:43:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/3/c/3c5c2c14-s.jpg
+16:43:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/b/b/bb28c680-s.jpg
+16:43:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/0/f/0fa363c0-s.jpg
+16:43:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/4/4/44aa2b3d-s.jpg
+16:43:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/8/4/84fdd0f8-s.jpg
+16:43:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/1/4/142f40b4-s.jpg
+16:43:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/3/5/3535e702-s.jpg
+16:43:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/5/d/5db4f271-s.jpg
+16:44:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/7/5/7510071d-s.jpg
+16:44:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/c/d/cd7b26db.jpg
+16:44:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/2/a/2affd8a1-s.jpg
+16:44:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/6/0/6090b74a-s.jpg
+16:44:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/a/9/a9c2f15d.jpg
+16:44:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/6/5/65887c39.jpg
+16:44:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/8/8/8837a54f-s.jpg
+16:44:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/f/0/f06896df.jpg
+16:44:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/8/d/8d81bf1c-s.jpg
+16:45:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/0/1/01236d59.jpg
+16:45:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/8/1/8129322b-s.jpg
+16:45:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/5/d/5dd20504.jpg
+16:45:19	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/2/9/29203cbb-s.jpg
+16:45:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/5/6/567ade32-s.jpg
+16:45:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/3/1/314d7fec-s.jpg
+16:45:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/1/4/1456732f.jpg
+16:45:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/6/1/61021a85.jpg
+16:45:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/a/a/aa0a184b.jpg
+16:46:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/d/6/d6ab9462-s.jpg
+16:46:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/a/c/ac954317.jpg
+16:46:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/b/4/b408a622-s.jpg
+16:47:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/c/4/c47cd459-s.jpg
+16:47:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/6/0/60c4b6d5-s.jpg
+16:47:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/4/0/40e6ecdb-s.jpg
+16:47:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/f/8/f8d1734c-s.jpg
+16:47:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/4/e/4e334c65-s.jpg
+16:47:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/8/a/8a4c6b5f-s.jpg
+16:47:19	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/f/6/f691313b-s.jpg
+16:47:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/6/1/61f614ab-s.jpg
+16:47:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/f/6/f6057924-s.jpg
+16:47:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/9/a/9a9f0740-s.jpg
+16:47:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/9/a/9a12b722-s.jpg
+16:48:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/8/8/88e3bc75-s.jpg
+16:48:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/8/a/8a35f78d.jpg
+16:48:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/3/d/3ded78f2.jpg
+16:48:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/6/3/630c76bd-s.jpg
+16:48:19	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/f/0/f009ca1a.jpg
+16:48:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/5/d/5d7e76c6-s.jpg
+16:48:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/d/e/de7d19bc-s.jpg
+16:48:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/f/d/fd0a79b9-s.jpg
+16:49:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/6/c/6cd98bf0-s.jpg
+16:49:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/a/b/abdae1f5.jpg
+16:49:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/7/d/7d722726.jpg
+16:49:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livedoor.blogimg.jp/kabosu112/imgs/4/1/41bd16d4-s.jpg
+16:49:15	Error: 	Exit requested by shell or user
+16:49:22	Error: 	Exit requested by shell or user
+16:49:22	Error: 	"" (-1) at link https://kabochan.blog.jp/archives/cat_504883.html (from https://kabochan.blog.jp/archives/52722073.html)
+16:49:22	Error: 	Exit requested by shell or user
+
+HTTrack Website Copier/3.49-2 mirror complete in 16 minutes 31 seconds : 986 links scanned, 966 files written (133300157 bytes overall) [43213234 bytes received at 43605 bytes/sec], 92995862 bytes transferred using HTTP compression in 594 files, ratio 15%, 2.5 requests per connection
+(5 errors, 121 warnings, 0 messages)
+* * MIRROR ABORTED! * *
+The current temporary cache is required for any update operation and only contains data downloaded during the present aborted session.
+The former cache might contain more complete information; if you do not want to lose that information, you have to restore it and delete the current cache.
+This can easily be done here by erasing the hts-cache/new.* files]
